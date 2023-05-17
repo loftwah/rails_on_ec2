@@ -1,5 +1,7 @@
 # Rails on EC2 with GitHub Actions
 
+![Rails on AWS Ec2 with GitHub Actions](https://github.com/loftwah/rails_on_ec2/assets/19922556/abb2e5cd-9a61-4e3b-868e-2f4f17a61b29)
+
 **Step 1: Create a new Ruby on Rails project**
 
 1. Install Ruby on Rails on your local system if you haven't already.
