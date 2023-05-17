@@ -110,4 +110,4 @@ Finally, emphasize that whenever changes are made to the main branch, the app wi
 Show the live app running on the EC2 instance by accessing it via the public IP in the browser.
 Wrap up the talk by highlighting the power of open source tools for efficient software development and deployment, and encourage attendees to explore more.
 
->> Note: Remember, you'll be moving quickly through the steps. Be sure to speak clearly and concisely, and consider having visuals or slides to help illustrate the points you're making.
+> Note: Remember, you'll be moving quickly through the steps. Be sure to speak clearly and concisely, and consider having visuals or slides to help illustrate the points you're making.
